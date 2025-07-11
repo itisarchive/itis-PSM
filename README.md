@@ -11,4 +11,8 @@ The following code is distributed under the [GPLv3](./LICENSE).
 
 ---
 
+Additional Game of Life project was part of the course and can be found as a separate repository [here](https://github.com/itischrisd/GameOfLife).
+
+---
+
 If you need some help, feel free to reach out to me. Keep in mind that code in this repository is strictly basic material, hence it may contain some suboptimal solutions. It was intended to be that way by the course program and is kept here as-is.
